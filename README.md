@@ -8,7 +8,7 @@ MindPredict is a full-stack machine learning web application built as our RMIT U
 
 ## Demo video
 
-🎥 **Coming soon:** a short walkthrough of the deployed app.
+🎥 **In another link:** a short walkthrough of the deployed app.
 <!-- Replace the line above with: [Watch the demo](YOUR-YOUTUBE-LINK) -->
 
 <!-- Add screenshots here (demo data only, no patient-level rows visible):
